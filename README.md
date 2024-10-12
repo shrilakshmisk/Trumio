@@ -1,6 +1,6 @@
 # On-Premises Data Privacy Solution
 
-This project developed a comprehensive on-premises solution aimed at safeguarding data privacy for industry clients, particularly in environments involving student interactions and third-party AI tools. 
+This project developed a comprehensive on-premises solution aimed at safeguarding data privacy for industry clients, particularly in environments involving student contributions to client projects and third-party AI tools. 
 
 ## Approach
 
